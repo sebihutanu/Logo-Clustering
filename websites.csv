@@ -1,0 +1,1094 @@
+website,industry
+https://www.walmart.com,e-commerce
+https://www.apple.com,e-commerce
+https://www.wayfair.com,e-commerce
+https://www.homedepot.com,e-commerce
+https://www.bestbuy.com,e-commerce
+https://www.target.com,e-commerce
+https://www.costco.com,e-commerce
+https://www.macys.com,e-commerce
+https://www.lowes.com,e-commerce
+https://www.nike.com,e-commerce
+https://www.adidas.com,e-commerce
+https://www.zappos.com,e-commerce
+https://www.sephora.com,e-commerce
+https://www.ulta.com,e-commerce
+https://www.overstock.com,e-commerce
+https://www.newegg.com,e-commerce
+https://www.bhphotovideo.com,e-commerce
+https://www.chewy.com,e-commerce
+https://www.petco.com,e-commerce
+https://www.petSmart.com,e-commerce
+https://www.staples.com,e-commerce
+https://www.officedepot.com,e-commerce
+https://www.dell.com,e-commerce
+https://www.hp.com,e-commerce
+https://www.lenovo.com,e-commerce
+https://www.samsung.com,e-commerce
+https://www.sony.com,e-commerce
+https://www.microsoft.com,e-commerce
+https://www.toysrus.com,e-commerce
+https://www.gamestop.com,e-commerce
+https://www.lego.com,e-commerce
+https://www.ikea.com,e-commerce
+https://www.wayfair.com,e-commerce
+https://www.crateandbarrel.com,e-commerce
+https://www.potterybarn.com,e-commerce
+https://www.williams-sonoma.com,e-commerce
+https://www.bedbathandbeyond.com,e-commerce
+https://www.kohls.com,e-commerce
+https://www.jcpenney.com,e-commerce
+https://www.nordstrom.com,e-commerce
+https://www.saksfifthavenue.com,e-commerce
+https://www.bloomingdales.com,e-commerce
+https://www.dickssportinggoods.com,e-commerce
+https://www.rei.com,e-commerce
+https://www.cabelas.com,e-commerce
+https://www.basspro.com,e-commerce
+https://www.lululemon.com,e-commerce
+https://www.underarmour.com,e-commerce
+https://www.patagonia.com,e-commerce
+https://www.columbia.com,e-commerce
+https://www.gap.com,e-commerce
+https://www.oldnavy.com,e-commerce
+https://www.bananarepublic.com,e-commerce
+https://www.ae.com,e-commerce
+https://www.abercrombie.com,e-commerce
+https://www.hollisterco.com,e-commerce
+https://www.express.com,e-commerce
+https://www.forever21.com,e-commerce
+https://www.hm.com,e-commerce
+https://www.zara.com,e-commerce
+https://www.asos.com,e-commerce
+https://www.shein.com,e-commerce
+https://www.modcloth.com,e-commerce
+https://www.anthropologie.com,e-commerce
+https://www.freepeople.com,e-commerce
+https://www.urbanoutfitters.com,e-commerce
+https://www.madewell.com,e-commerce
+https://www.jcrew.com,e-commerce
+https://www.brooksbrothers.com,e-commerce
+https://www.ralphlauren.com,e-commerce
+https://www.tommy.com,e-commerce
+https://www.calvinklein.com,e-commerce
+https://www.gucci.com,e-commerce
+https://www.prada.com,e-commerce
+https://www.louisvuitton.com,e-commerce
+https://www.chanel.com,e-commerce
+https://www.dior.com,e-commerce
+https://www.burberry.com,e-commerce
+https://www.farfetch.com,e-commerce
+https://www.net-a-porter.com,e-commerce
+https://www.ssense.com,e-commerce
+https://www.matchesfashion.com,e-commerce
+https://www.mrporter.com,e-commerce
+https://www.shopbop.com,e-commerce
+https://www.revolve.com,e-commerce
+https://www.zulily.com,e-commerce
+https://www.wayfair.ca,e-commerce
+https://www.amazon.ca,e-commerce
+https://www.bestbuy.ca,e-commerce
+https://www.homedepot.ca,e-commerce
+https://www.walmart.ca,e-commerce
+https://www.costco.ca,e-commerce
+https://www.canadiantire.ca,e-commerce
+https://www.sears.ca,e-commerce
+https://www.hbc.com,e-commerce
+https://www.sportchek.ca,e-commerce
+https://www.nih.gov,healthcare
+https://www.healthline.com,healthcare
+https://www.mayoclinic.org,healthcare
+https://www.clevelandclinic.org,healthcare
+https://www.webmd.com,healthcare
+https://www.cdc.gov,healthcare
+https://www.who.int,healthcare
+https://www.medlineplus.gov,healthcare
+https://www.hopkinsmedicine.org,healthcare
+https://www.kp.org,healthcare
+https://www.uclahealth.org,healthcare
+https://www.mountsinai.org,healthcare
+https://www.nhs.uk,healthcare
+https://www.sutterhealth.org,healthcare
+https://www.medicinenet.com,healthcare
+https://www.rxlist.com,healthcare
+https://www.drugs.com,healthcare
+https://www.medscape.com,healthcare
+https://www.uptodate.com,healthcare
+https://www.jamanetwork.com,healthcare
+https://www.nejm.org,healthcare
+https://www.thelancet.com,healthcare
+https://www.bmj.com,healthcare
+https://www.pubmed.ncbi.nlm.nih.gov,healthcare
+https://www.emedicine.medscape.com,healthcare
+https://www.cancer.org,healthcare
+https://www.cancer.gov,healthcare
+https://www.heart.org,healthcare
+https://www.diabetes.org,healthcare
+https://www.kidney.org,healthcare
+https://www.lung.org,healthcare
+https://www.arthritis.org,healthcare
+https://www.alz.org,healthcare
+https://www.parkinson.org,healthcare
+https://www.mentalhealth.gov,healthcare
+https://www.samhsa.gov,healthcare
+https://www.nami.org,healthcare
+https://www.psychiatry.org,healthcare
+https://www.apa.org,healthcare
+https://www.ama-assn.org,healthcare
+https://www.acponline.org,healthcare
+https://www.aafp.org,healthcare
+https://www.aap.org,healthcare
+https://www.acog.org,healthcare
+https://www.ada.org,healthcare
+https://www.aaaai.org,healthcare
+https://www.acc.org,healthcare
+https://www.asco.org,healthcare
+https://www.idsociety.org,healthcare
+https://www.endocrine.org,healthcare
+https://www.gastro.org,healthcare
+https://www.asahq.org,healthcare
+https://www.ashp.org,healthcare
+https://www.aacp.org,healthcare
+https://www.pharmacist.com,healthcare
+https://www.aapa.org,healthcare
+https://www.nurse.org,healthcare
+https://www.aanp.org,healthcare
+https://www.ena.org,healthcare
+https://www.ons.org,healthcare
+https://www.ama-assn.org,healthcare
+https://www.aamc.org,healthcare
+https://www.acgme.org,healthcare
+https://www.ecfmg.org,healthcare
+https://www.nbme.org,healthcare
+https://www.fsmb.org,healthcare
+https://www.abms.org,healthcare
+https://www.usmle.org,healthcare
+https://www.ahrq.gov,healthcare
+https://www.cms.gov,healthcare
+https://www.fda.gov,healthcare
+https://www.hrsa.gov,healthcare
+https://www.ihs.gov,healthcare
+https://www.va.gov,healthcare
+https://www.osha.gov,healthcare
+https://www.hhs.gov,healthcare
+https://www.telehealth.hhs.gov,healthcare
+https://www.amwell.com,healthcare
+https://www.teladoc.com,healthcare
+https://www.doctorondemand.com,healthcare
+https://www.mdlive.com,healthcare
+https://www.zocdoc.com,healthcare
+https://www.heydoctor.com,healthcare
+https://www.khealth.com,healthcare
+https://www.pushhealth.com,healthcare
+https://www.lemonaidhealth.com,healthcare
+https://www.goodrx.com,healthcare
+https://www.singlecare.com,healthcare
+https://www.optum.com,healthcare
+https://www.cvs.com,healthcare
+https://www.walgreens.com,healthcare
+https://www.riteaid.com,healthcare
+https://www.walmart.com/cp/pharmacy/5431,healthcare
+https://www.costco.com/pharmacy.html,healthcare
+https://www.samsclub.com/pharmacy,healthcare
+https://www.healthgrades.com,healthcare
+https://www.vitals.com,healthcare
+https://www.zocdoc.com,healthcare
+https://www.rateMDs.com,healthcare
+https://www.hospitalsafetygrade.org,healthcare
+https://www.leapfroggroup.org,healthcare
+https://www.jointcommission.org,healthcare
+https://www.ncqa.org,healthcare
+https://www.urac.org,healthcare
+https://www.qualitycheck.org,healthcare
+https://www.coursera.org,education
+https://www.edx.org,education
+https://www.udacity.com,education
+https://www.khanacademy.org,education
+https://www.udemy.com,education
+https://www.academicearth.org,education
+https://www.futurelearn.com,education
+https://www.open.edu/openlearn,education
+https://www.alison.com,education
+https://www.canvas.net,education
+https://www.saylor.org,education
+https://www.masterclass.com,education
+https://www.linkedin.com/learning,education
+https://www.skillshare.com,education
+https://www.codecademy.com,education
+https://www.pluralsight.com,education
+https://www.lynda.com,education
+https://www.brainpop.com,education
+https://www.nationalgeographic.org/education,education
+https://www.discoveryeducation.com,education
+https://www.teachertube.com,education
+https://www.schoology.com,education
+https://www.blackboard.com,education
+https://www.moodle.org,education
+https://www.classdojo.com,education
+https://www.edmodo.com,education
+https://www.scholastic.com,education
+https://www.readwritethink.org,education
+https://www.pbslearningmedia.org,education
+https://www.timeforkids.com,education
+https://www.funbrain.com,education
+https://www.coolmath.com,education
+https://www.mathsisfun.com,education
+https://www.mathway.com,education
+https://www.wolframalpha.com,education
+https://www.sparknotes.com,education
+https://www.cliffsnotes.com,education
+https://www.shmoop.com,education
+https://www.britannica.com,education
+https://www.howstuffworks.com,education
+https://www.thoughtco.com,education
+https://www.crashcourse.com,education
+https://www.ted.com,education
+https://www.openculture.com,education
+https://www.opencolleges.edu.au,education
+https://www.opencourseware.eu,education
+https://www.oercommons.org,education
+https://www.ck12.org,education
+https://www.merlot.org,education
+https://www.curriki.org,education
+https://www.oeru.org,education
+https://www.wgu.edu,education
+https://www.phoenix.edu,education
+https://www.capella.edu,education
+https://www.strayer.edu,education
+https://www.k12.com,education
+https://www.connectionsacademy.com,education
+https://www.flvs.net,education
+https://www.mit.edu,education
+https://www.harvard.edu,education
+https://www.stanford.edu,education
+https://www.yale.edu,education
+https://www.ox.ac.uk,education
+https://www.cam.ac.uk,education
+https://www.berkeley.edu,education
+https://www.ucla.edu,education
+https://www.columbia.edu,education
+https://www.princeton.edu,education
+https://www.cornell.edu,education
+https://www.duke.edu,education
+https://www.northwestern.edu,education
+https://www.umich.edu,education
+https://www.uchicago.edu,education
+https://www.upenn.edu,education
+https://www.jhu.edu,education
+https://www.nyu.edu,education
+https://www.u-tokyo.ac.jp,education
+https://www.pku.edu.cn,education
+https://www.tsinghua.edu.cn,education
+https://www.iitd.ac.in,education
+https://www.iisc.ac.in,education
+https://www.utoronto.ca,education
+https://www.ubc.ca,education
+https://www.mcgill.ca,education
+https://www.anu.edu.au,education
+https://www.unimelb.edu.au,education
+https://www.sydney.edu.au,education
+https://www.unsw.edu.au,education
+https://www.uq.edu.au,education
+https://www.auckland.ac.nz,education
+https://www.otago.ac.nz,education
+https://www.canterbury.ac.nz,education
+https://www.wits.ac.za,education
+https://www.uct.ac.za,education
+https://www.sun.ac.za,education
+https://www.ug.edu.gh,education
+https://www.unilag.edu.ng,education
+https://www.uct.edu.mx,education
+https://www.unam.mx,education
+https://www.pontificia.edu.pe,education
+https://www.usp.br,education
+https://www.techcrunch.com,technology
+https://www.theverge.com,technology
+https://www.wired.com,technology
+https://www.mashable.com,technology
+https://www.gizmodo.com,technology
+https://www.cnet.com,technology
+https://www.engadget.com,technology
+https://www.venturebeat.com,technology
+https://www.recode.net,technology
+https://www.zdnet.com,technology
+https://www.androidcentral.com,technology
+https://www.technobuffalo.com,technology
+https://www.digitaltrends.com,technology
+https://www.appleinsider.com,technology
+https://www.howtogeek.com,technology
+https://www.thenextweb.com,technology
+https://www.macworld.com,technology
+https://www.androidauthority.com,technology
+https://www.extremetech.com,technology
+https://www.bleepingcomputer.com,technology
+https://www.techrepublic.com,technology
+https://www.slashdot.org,technology
+https://www.gigaom.com,technology
+https://www.readwrite.com,technology
+https://www.techmeme.com,technology
+https://www.tomshardware.com,technology
+https://www.pcworld.com,technology
+https://www.anandtech.com,technology
+https://www.arstechnica.com,technology
+https://www.macrumors.com,technology
+https://www.9to5mac.com,technology
+https://www.electronista.com,technology
+https://www.phoronix.com,technology
+https://www.neowin.net,technology
+https://www.osnews.com,technology
+https://www.techspot.com,technology
+https://www.bit-tech.net,technology
+https://www.hothardware.com,technology
+https://www.techpowerup.com,technology
+https://www.techdirt.com,technology
+https://www.techradar.com,technology
+https://www.liliputing.com,technology
+https://www.techinasia.com,technology
+https://www.eetimes.com,technology
+https://www.electronicsweekly.com,technology
+https://www.makeuseof.com,technology
+https://www.ghacks.net,technology
+https://www.ubergizmo.com,technology
+https://www.techpp.com,technology
+https://www.techspot.com,technology
+https://www.techvibes.com,technology
+https://www.techweekeurope.co.uk,technology
+https://www.techcitynews.com,technology
+https://www.tech.eu,technology
+https://www.eurogamer.net,technology
+https://www.rockpapershotgun.com,technology
+https://www.polygon.com,technology
+https://www.kotaku.com,technology
+https://www.gamespot.com,technology
+https://www.ign.com,technology
+https://www.destructoid.com,technology
+https://www.joystiq.com,technology
+https://www.shacknews.com,technology
+https://www.pcgamer.com,technology
+https://www.gametrailers.com,technology
+https://www.gameinformer.com,technology
+https://www.gamesradar.com,technology
+https://www.nintendolife.com,technology
+https://www.pushsquare.com,technology
+https://www.eurogamer.net,technology
+https://www.vg247.com,technology
+https://www.siliconangle.com,technology
+https://www.networkworld.com,technology
+https://www.informationweek.com,technology
+https://www.infoworld.com,technology
+https://www.computerworld.com,technology
+https://www.datamation.com,technology
+https://www.cio.com,technology
+https://www.itworld.com,technology
+https://www.darkreading.com,technology
+https://www.securityweek.com,technology
+https://www.theregister.com,technology
+https://www.theserverside.com,technology
+https://www.dzone.com,technology
+https://www.infoq.com,technology
+https://www.dev.to,technology
+https://www.hackernews.com,technology
+https://www.stackoverflow.com,technology
+https://www.github.com,technology
+https://www.gitlab.com,technology
+https://www.bitbucket.org,technology
+https://www.sourceforge.net,technology
+https://www.codeproject.com,technology
+https://www.sitepoint.com,technology
+https://www.smashingmagazine.com,technology
+https://www.css-tricks.com,technology
+https://www.awwwards.com,technology
+https://www.behance.net,technology
+https://www.dribbble.com,technology
+https://www.deviantart.com,technology
+https://www.booking.com,travel & hospitality
+https://www.expedia.com,travel & hospitality
+https://www.airbnb.com,travel & hospitality
+https://www.tripadvisor.com,travel & hospitality
+https://www.hotels.com,travel & hospitality
+https://www.kayak.com,travel & hospitality
+https://www.priceline.com,travel & hospitality
+https://www.orbitz.com,travel & hospitality
+https://www.travelocity.com,travel & hospitality
+https://www.agoda.com,travel & hospitality
+https://www.marriott.com,travel & hospitality
+https://www.hilton.com,travel & hospitality
+https://www.hyatt.com,travel & hospitality
+https://www.ihg.com,travel & hospitality
+https://www.wyndhamhotels.com,travel & hospitality
+https://www.choicehotels.com,travel & hospitality
+https://www.accorhotels.com,travel & hospitality
+https://www.ryanair.com,travel & hospitality
+https://www.easyjet.com,travel & hospitality
+https://www.southwest.com,travel & hospitality
+https://www.delta.com,travel & hospitality
+https://www.united.com,travel & hospitality
+https://www.aa.com,travel & hospitality
+https://www.lufthansa.com,travel & hospitality
+https://www.britishairways.com,travel & hospitality
+https://www.emirates.com,travel & hospitality
+https://www.qatarairways.com,travel & hospitality
+https://www.singaporeair.com,travel & hospitality
+https://www.cathaypacific.com,travel & hospitality
+https://www.jetblue.com,travel & hospitality
+https://www.alaskaair.com,travel & hospitality
+https://www.spirit.com,travel & hospitality
+https://www.norwegian.com,travel & hospitality
+https://www.turkishairlines.com,travel & hospitality
+https://www.airfrance.com,travel & hospitality
+https://www.klm.com,travel & hospitality
+https://www.aeroflot.ru,travel & hospitality
+https://www.ana.co.jp,travel & hospitality
+https://www.jal.co.jp,travel & hospitality
+https://www.vrbo.com,travel & hospitality
+https://www.homeaway.com,travel & hospitality
+https://www.flipkey.com,travel & hospitality
+https://www.vacationrentals.com,travel & hospitality
+https://www.trivago.com,travel & hospitality
+https://www.momondo.com,travel & hospitality
+https://www.skyscanner.com,travel & hospitality
+https://www.cheapoair.com,travel & hospitality
+https://www.travelzoo.com,travel & hospitality
+https://www.lonelyplanet.com,travel & hospitality
+https://www.fodors.com,travel & hospitality
+https://www.frommers.com,travel & hospitality
+https://www.roughguides.com,travel & hospitality
+https://www.cntraveler.com,travel & hospitality
+https://www.travelandleisure.com,travel & hospitality
+https://www.nationalgeographic.com/travel,travel & hospitality
+https://www.budgettravel.com,travel & hospitality
+https://www.smartertravel.com,travel & hospitality
+https://www.afar.com,travel & hospitality
+https://www.jetsetter.com,travel & hospitality
+https://www.bookingholdings.com,travel & hospitality
+https://www.hostelworld.com,travel & hospitality
+https://www.couchsurfing.com,travel & hospitality
+https://www.busbud.com,travel & hospitality
+https://www.rome2rio.com,travel & hospitality
+https://www.getyourguide.com,travel & hospitality
+https://www.viator.com,travel & hospitality
+https://www.tourradar.com,travel & hospitality
+https://www.intrepidtravel.com,travel & hospitality
+https://www.gadventures.com,travel & hospitality
+https://www.contiki.com,travel & hospitality
+https://www.topdeck.travel,travel & hospitality
+https://www.tauck.com,travel & hospitality
+https://www.globusjourneys.com,travel & hospitality
+https://www.cosmos.com,travel & hospitality
+https://www.insightvacations.com,travel & hospitality
+https://www.trafalgar.com,travel & hospitality
+https://www.collette.com,travel & hospitality
+https://www.efultimatebreak.com,travel & hospitality
+https://www.exodus.co.uk,travel & hospitality
+https://www.explorica.com,travel & hospitality
+https://www.goaheadtours.com,travel & hospitality
+https://www.roadscholar.org,travel & hospitality
+https://www.backroads.com,travel & hospitality
+https://www.oattravel.com,travel & hospitality
+https://www.roadtrippers.com,travel & hospitality
+https://www.atlasobscura.com,travel & hospitality
+https://www.couchsurfing.org,travel & hospitality
+https://www.wayaway.io,travel & hospitality
+https://www.nomadicmatt.com,travel & hospitality
+https://www.thepointsguy.com,travel & hospitality
+https://www.flyertalk.com,travel & hospitality
+https://www.headforpoints.com,travel & hospitality
+https://www.rewardexpert.com,travel & hospitality
+https://www.milevalue.com,travel & hospitality
+https://www.onemileatatime.com,travel & hospitality
+https://www.viewfromthewing.com,travel & hospitality
+https://www.upgradedpoints.com,travel & hospitality
+https://www.creditcards.com,travel & hospitality
+https://www.nerdwallet.com,travel & hospitality
+https://www.bankrate.com,travel & hospitality
+https://www.valuepenguin.com,travel & hospitality
+https://www.cardratings.com,travel & hospitality
+https://www.youtube.com,entertainment
+https://www.netflix.com,entertainment
+https://www.bilibili.com,entertainment
+https://www.fandom.com,entertainment
+https://www.spotify.com,entertainment
+https://www.imdb.com,entertainment
+https://www.pixiv.net,entertainment
+https://www.disneyplus.com,entertainment
+https://www.primevideo.com,entertainment
+https://www.archiveofourown.org,entertainment
+https://www.hulu.com,entertainment
+https://www.crunchyroll.com,entertainment
+https://www.nicovideo.jp,entertainment
+https://www.deviantart.com,entertainment
+https://www.9gag.com,entertainment
+https://www.wattpad.com,entertainment
+https://www.soundcloud.com,entertainment
+https://www.dailymotion.com,entertainment
+https://www.tiktok.com,entertainment
+https://www.vimeo.com,entertainment
+https://www.twitch.tv,entertainment
+https://www.hbomax.com,entertainment
+https://www.ign.com,entertainment
+https://www.rottentomatoes.com,entertainment
+https://www.metacritic.com,entertainment
+https://www.pandora.com,entertainment
+https://www.audible.com,entertainment
+https://www.bandcamp.com,entertainment
+https://www.mixcloud.com,entertainment
+https://www.last.fm,entertainment
+https://www.buzzfeed.com,entertainment
+https://www.nbcnews.com,entertainment
+https://www.vice.com,entertainment
+https://www.insider.com,entertainment
+https://www.time.com,entertainment
+https://www.lonelyplanet.com,entertainment
+https://www.realsimple.com,entertainment
+https://www.tvguide.com,entertainment
+https://www.theonion.com,entertainment
+https://www.gizmodo.com,entertainment
+https://www.salon.com,entertainment
+https://www.self.com,entertainment
+https://www.sciencedaily.com,entertainment
+https://www.thefederalist.com,entertainment
+https://www.shutterstock.com/blog,entertainment
+https://www.rogerebert.com,entertainment
+https://www.eater.com,entertainment
+https://www.vulture.com,entertainment
+https://www.theatlantic.com/photo,entertainment
+https://www.cheezburger.com,entertainment
+https://www.travelandleisure.com,entertainment
+https://www.artsy.net,entertainment
+https://www.avclub.com,entertainment
+https://www.polygon.com,entertainment
+https://www.perezhilton.com,entertainment
+https://www.eonline.com,entertainment
+https://www.usmagazine.com,entertainment
+https://www.justjared.com,entertainment
+https://www.people.com,entertainment
+https://www.hollywoodreporter.com,entertainment
+https://www.indiewire.com,entertainment
+https://www.thewrap.com,entertainment
+https://www.slashfilm.com,entertainment
+https://www.collider.com,entertainment
+https://www.ladbible.com/entertainment,entertainment
+https://www.etonline.com/news,entertainment
+https://www.hollywoodlife.com,entertainment
+https://www.deadline.com,entertainment
+https://www.theshaderoom.com,entertainment
+https://www.bossip.com,entertainment
+https://www.extratv.com,entertainment
+https://www.accessonline.com,entertainment
+https://www.uproxx.com,entertainment
+https://www.wonderwall.com,entertainment
+https://www.tmz.com,entertainment
+https://www.perezhilton.com,entertainment
+https://www.eonline.com,entertainment
+https://www.usmagazine.com,entertainment
+https://www.justjared.com,entertainment
+https://www.people.com,entertainment
+https://www.hollywoodreporter.com,entertainment
+https://www.indiewire.com,entertainment
+https://www.thewrap.com,entertainment
+https://www.slashfilm.com,entertainment
+https://www.collider.com,entertainment
+https://www.ladbible.com/entertainment,entertainment
+https://www.etonline.com/news,entertainment
+https://www.hollywoodlife.com,entertainment
+https://www.deadline.com,entertainment
+https://www.theshaderoom.com,entertainment
+https://www.bossip.com,entertainment
+https://www.extratv.com,entertainment
+https://www.accessonline.com,entertainment
+https://www.uproxx.com,entertainment
+https://www.wonderwall.com,entertainment
+https://www.allrecipes.com,food & beverage
+https://www.foodnetwork.com,food & beverage
+https://www.epicurious.com,food & beverage
+https://www.seriouseats.com,food & beverage
+https://www.tasteofhome.com,food & beverage
+https://www.bonappetit.com,food & beverage
+https://www.simplyrecipes.com,food & beverage
+https://www.yummly.com,food & beverage
+https://www.eater.com,food & beverage
+https://www.saveur.com,food & beverage
+https://www.cookinglight.com,food & beverage
+https://www.smittenkitchen.com,food & beverage
+https://www.thekitchn.com,food & beverage
+https://www.chowhound.com,food & beverage
+https://www.food.com,food & beverage
+https://www.cooksillustrated.com,food & beverage
+https://www.bbcgoodfood.com,food & beverage
+https://www.delish.com,food & beverage
+https://www.tasty.co,food & beverage
+https://www.cooking.nytimes.com,food & beverage
+https://www.jamieoliver.com,food & beverage
+https://www.gordonramsay.com,food & beverage
+https://www.nigella.com,food & beverage
+https://www.kingarthurbaking.com,food & beverage
+https://www.americastestkitchen.com,food & beverage
+https://www.food52.com,food & beverage
+https://www.realsimple.com,food & beverage
+https://www.bhg.com,food & beverage
+https://www.marthastewart.com,food & beverage
+https://www.eatingwell.com,food & beverage
+https://www.myrecipes.com,food & beverage
+https://www.taste.com.au,food & beverage
+https://www.tastingtable.com,food & beverage
+https://www.culinate.com,food & beverage
+https://www.101cookbooks.com,food & beverage
+https://www.cookstr.com,food & beverage
+https://www.spoonforkbacon.com,food & beverage
+https://www.thepioneerwoman.com,food & beverage
+https://www.skinnytaste.com,food & beverage
+https://www.halfbakedharvest.com,food & beverage
+https://www.minimalistbaker.com,food & beverage
+https://www.budgetbytes.com,food & beverage
+https://www.loveandlemons.com,food & beverage
+https://www.cookieandkate.com,food & beverage
+https://www.davidlebovitz.com,food & beverage
+https://www.chefsteps.com,food & beverage
+https://www.seriousbakes.com,food & beverage
+https://www.biggerbolderbaking.com,food & beverage
+https://www.bakingbites.com,food & beverage
+https://www.browneyedbaker.com,food & beverage
+https://www.sallysbakingaddiction.com,food & beverage
+https://www.joyofbaking.com,food & beverage
+https://www.thebrewerandthebaker.com,food & beverage
+https://www.thefreshloaf.com,food & beverage
+https://www.breadtopia.com,food & beverage
+https://www.theperfectloaf.com,food & beverage
+https://www.pizzamaking.com,food & beverage
+https://www.smoking-meat.com,food & beverage
+https://www.amazingribs.com,food & beverage
+https://www.bbqpitboys.com,food & beverage
+https://www.grillingcompanion.com,food & beverage
+https://www.weber.com,food & beverage
+https://www.traeger.com,food & beverage
+https://www.biggreenegg.com,food & beverage
+https://www.kamadojoe.com,food & beverage
+https://www.charbroil.com,food & beverage
+https://www.napoleon.com,food & beverage
+https://www.masterbuilt.com,food & beverage
+https://www.pitboss-grills.com,food & beverage
+https://www.recipetineats.com,food & beverage
+https://www.damndelicious.net,food & beverage
+https://www.gimmesomeoven.com,food & beverage
+https://www.closetcooking.com,food & beverage
+https://www.cafedelites.com,food & beverage
+https://www.spendwithpennies.com,food & beverage
+https://www.melskitchencafe.com,food & beverage
+https://www.twopeasandtheirpod.com,food & beverage
+https://www.onceuponachef.com,food & beverage
+https://www.plainchicken.com,food & beverage
+https://www.thechunkychef.com,food & beverage
+https://www.jocooks.com,food & beverage
+https://www.recipetineats.com,food & beverage
+https://www.cookingclassy.com,food & beverage
+https://www.aspicyperspective.com,food & beverage
+https://www.thefoodcharlatan.com,food & beverage
+https://www.averiecooks.com,food & beverage
+https://www.the-girl-who-ate-everything.com,food & beverage
+https://www.chelseasmessyapron.com,food & beverage
+https://www.lecremedelacrumb.com,food & beverage
+https://www.carlsbadcravings.com,food & beverage
+https://www.thepioneerwoman.com,food & beverage
+https://www.foodandwine.com,food & beverage
+https://www.finecooking.com,food & beverage
+https://www.cookingchanneltv.com,food & beverage
+https://www.cookstr.com,food & beverage
+https://www.culinaryhill.com,food & beverage
+https://www.zillow.com,real estate
+https://www.realtor.com,real estate
+https://www.redfin.com,real estate
+https://www.trulia.com,real estate
+https://www.rightmove.co.uk,real estate
+https://www.zoopla.co.uk,real estate
+https://www.remax.com,real estate
+https://www.century21.com,real estate
+https://www.coldwellbanker.com,real estate
+https://www.sothebysrealty.com,real estate
+https://www.kw.com,real estate
+https://www.compass.com,real estate
+https://www.bhgre.com,real estate
+https://www.era.com,real estate
+https://www.longandfoster.com,real estate
+https://www.homes.com,real estate
+https://www.movoto.com,real estate
+https://www.realestate.com.au,real estate
+https://www.domain.com.au,real estate
+https://www.realestate.co.nz,real estate
+https://www.propertyfinder.ae,real estate
+https://www.bayut.com,real estate
+https://www.property24.com,real estate
+https://www.99acres.com,real estate
+https://www.magicbricks.com,real estate
+https://www.lamudi.com,real estate
+https://www.makaan.com,real estate
+https://www.immobilienscout24.de,real estate
+https://www.immowelt.de,real estate
+https://www.seloger.com,real estate
+https://www.leboncoin.fr,real estate
+https://www.pisos.com,real estate
+https://www.idealista.com,real estate
+https://www.fotocasa.es,real estate
+https://www.trovit.com,real estate
+https://www.olx.com,real estate
+https://www.vivareal.com.br,real estate
+https://www.zapimoveis.com.br,real estate
+https://www.funda.nl,real estate
+https://www.pararius.com,real estate
+https://www.spareroom.co.uk,real estate
+https://www.gumtree.com,real estate
+https://www.kijiji.ca,real estate
+https://www.point2homes.com,real estate
+https://www.rew.ca,real estate
+https://www.realestateview.com.au,real estate
+https://www.realcommercial.com.au,real estate
+https://www.loopnet.com,real estate
+https://www.crexi.com,real estate
+https://www.officespace.com,real estate
+https://www.cityfeet.com,real estate
+https://www.apartments.com,real estate
+https://www.rent.com,real estate
+https://www.rentcafe.com,real estate
+https://www.zumper.com,real estate
+https://www.renthop.com,real estate
+https://www.padmapper.com,real estate
+https://www.forrent.com,real estate
+https://www.rentals.com,real estate
+https://www.apartmentguide.com,real estate
+https://www.mynewplace.com,real estate
+https://www.apartmentfinder.com,real estate
+https://www.homesnap.com,real estate
+https://www.homefinder.com,real estate
+https://www.realtytrac.com,real estate
+https://www.foreclosure.com,real estate
+https://www.hud.gov,real estate
+https://www.propertyshark.com,real estate
+https://www.estately.com,real estate
+https://www.realestateabc.com,real estate
+https://www.homegain.com,real estate
+https://www.ziprealty.com,real estate
+https://www.mls.com,real estate
+https://www.realty.com,real estate
+https://www.realtyexecutives.com,real estate
+https://www.weichert.com,real estate
+https://www.homelight.com,real estate
+https://www.upnest.com,real estate
+https://www.agentpronto.com,real estate
+https://www.owners.com,real estate
+https://www.forsalebyowner.com,real estate
+https://www.beycome.com,real estate
+https://www.flatfee.com,real estate
+https://www.isoldmyhouse.com,real estate
+https://www.buyowner.com,real estate
+https://www.listwithfreedom.com,real estate
+https://www.homelister.com,real estate
+https://www.simplechoice.com,real estate
+https://www.mlssociety.com,real estate
+https://www.entryonly.com,real estate
+https://www.mlsmyhome.com,real estate
+https://www.househunt.com,real estate
+https://www.realestateagent.com,real estate
+https://www.agentfinder.com,real estate
+https://www.topagentsranked.com,real estate
+https://www.findwell.com,real estate
+https://www.realestateagents.com,real estate
+https://www.agentharvest.com,real estate
+https://www.agentmachine.com,real estate
+https://www.agentstorm.com,real estate
+https://www.agentsranking.com,real estate
+https://www.agentzip.com,real estate
+https://www.agentimage.com,real estate
+https://www.drive2.ru,automotive
+https://www.sahibinden.com,automotive
+https://www.olx.pl,automotive
+https://www.drom.ru,automotive
+https://www.mobile.de,automotive
+https://www.marktplaats.nl,automotive
+https://www.otomoto.pl,automotive
+https://www.carfax.com,automotive
+https://www.motorsport.com,automotive
+https://www.cargurus.com,automotive
+https://www.ebay.com.au,automotive
+https://www.autotrader.co.uk,automotive
+https://www.tesla.com,automotive
+https://www.auto.ru,automotive
+https://www.gridoto.com,automotive
+https://www.usnews.com,automotive
+https://www.justanswer.com,automotive
+https://www.cars.com,automotive
+https://www.wallapop.com,automotive
+https://www.kia.com,automotive
+https://www.autozone.com,automotive
+https://www.carview.co.jp,automotive
+https://www.goo-net.com,automotive
+https://www.hyundai.com,automotive
+https://www.rockauto.com,automotive
+https://www.carsales.com.au,automotive
+https://www.oreillyauto.com,automotive
+https://www.copart.com,automotive
+https://www.exist.ru,automotive
+https://www.av.by,automotive
+https://www.alldata.com,automotive
+https://www.advanceautoparts.com,automotive
+https://www.nissan.co.jp,automotive
+https://www.intercars.eu,automotive
+https://www.michelin.com,automotive
+https://www.partslink24.com,automotive
+https://www.rossko.ru,automotive
+https://www.suzuki.co.jp,automotive
+https://www.marutisuzuki.com,automotive
+https://www.cars.av.by,automotive
+https://www.gasbuddy.com,automotive
+https://www.summitracing.com,automotive
+https://www.iaai.com,automotive
+https://www.discounttire.com,automotive
+https://www.mobile.bg,automotive
+https://www.emex.ru,automotive
+https://www.cars24.com,automotive
+https://www.autozonepro.com,automotive
+https://www.tatamotors.com,automotive
+https://www.byd.com,automotive
+https://www.prodemand.com,automotive
+https://www.firstcallonline.com,automotive
+https://www.partsgeek.com,automotive
+https://www.supercheapauto.com.au,automotive
+https://www.tirerack.com,automotive
+https://www.armtek.ru,automotive
+https://www.carparts-cat.com,automotive
+https://www.autopiter.ru,automotive
+https://www.identifix.com,automotive
+https://www.autodoc.de,automotive
+https://www.webuycars.co.za,automotive
+https://www.nexpart.com,automotive
+https://www.oscaro.com,automotive
+https://www.tekmetric.com,automotive
+https://www.bid.cars,automotive
+https://www.response.jp,automotive
+https://www.astra.co.id,automotive
+https://www.caranddriver.com,automotive
+https://www.motortrend.com,automotive
+https://www.autoblog.com,automotive
+https://www.jalopnik.com,automotive
+https://www.theautochannel.com,automotive
+https://www.edmunds.com,automotive
+https://www.kbb.com,automotive
+https://www.autotrader.com,automotive
+https://www.truecar.com,automotive
+https://www.carsdirect.com,automotive
+https://www.motor1.com,automotive
+https://www.roadandtrack.com,automotive
+https://www.topspeed.com,automotive
+https://www.hotcars.com,automotive
+https://www.carmax.com,automotive
+https://www.carvana.com,automotive
+https://www.vroom.com,automotive
+https://www.autotempest.com,automotive
+https://www.bringatrailer.com,automotive
+https://www.hagerty.com,automotive
+https://www.hemmings.com,automotive
+https://www.classiccars.com,automotive
+https://www.autoweek.com,automotive
+https://www.autoweek.nl,automotive
+https://www.autobytel.com,automotive
+https://www.autotrader.ca,automotive
+https://www.canadiantire.ca,automotive
+https://www.autoscout24.com,automotive
+https://www.autoscout24.de,automotive
+https://www.autoscout24.nl,automotive
+https://www.autoscout24.it,automotive
+https://www.autoscout24.fr,automotive
+https://www.autoscout24.es,automotive
+https://www.amazon.com,retail
+https://www.walmart.com,retail
+https://www.costco.com,retail
+https://www.kroger.com,retail
+https://www.target.com,retail
+https://www.homedepot.com,retail
+https://www.bestbuy.com,retail
+https://www.walgreens.com,retail
+https://www.cvs.com,retail
+https://www.lowes.com,retail
+https://www.etsy.com,retail
+https://www.nike.com,retail
+https://www.macys.com,retail
+https://www.nordstrom.com,retail
+https://www.gap.com,retail
+https://www.zara.com,retail
+https://www.hm.com,retail
+https://www.sephora.com,retail
+https://www.ikea.com,retail
+https://www.samsclub.com,retail
+https://www.aliexpress.com,retail
+https://www.ebay.com,retail
+https://www.wayfair.com,retail
+https://www.shein.com,retail
+https://www.jd.com,retail
+https://www.newegg.com,retail
+https://www.bhphotovideo.com,retail
+https://www.staples.com,retail
+https://www.officedepot.com,retail
+https://www.autozone.com,retail
+https://www.ulta.com,retail
+https://www.dell.com,retail
+https://www.hp.com,retail
+https://www.apple.com,retail
+https://www.microsoft.com,retail
+https://www.sony.com,retail
+https://www.samsung.com,retail
+https://www.toysrus.com,retail
+https://www.potterybarn.com,retail
+https://www.crateandbarrel.com,retail
+https://www.bedbathandbeyond.com,retail
+https://www.ashleyfurniture.com,retail
+https://www.williams-sonoma.com,retail
+https://www.anthropologie.com,retail
+https://www.urbanoutfitters.com,retail
+https://www.freepeople.com,retail
+https://www.lululemon.com,retail
+https://www.adidas.com,retail
+https://www.puma.com,retail
+https://www.underarmour.com,retail
+https://www.columbia.com,retail
+https://www.patagonia.com,retail
+https://www.northface.com,retail
+https://www.rei.com,retail
+https://www.dickssportinggoods.com,retail
+https://www.basspro.com,retail
+https://www.cabelas.com,retail
+https://www.chewy.com,retail
+https://www.petsmart.com,retail
+https://www.petco.com,retail
+https://www.wayfair.ca,retail
+https://www.canadiantire.ca,retail
+https://www.loblaws.ca,retail
+https://www.shoppersdrugmart.ca,retail
+https://www.sportchek.ca,retail
+https://www.hbc.com,retail
+https://www.walmart.ca,retail
+https://www.costco.ca,retail
+https://www.bestbuy.ca,retail
+https://www.homedepot.ca,retail
+https://www.lowes.ca,retail
+https://www.sears.ca,retail
+https://www.toysrus.ca,retail
+https://www.indigo.ca,retail
+https://www.chapters.indigo.ca,retail
+https://www.bookdepository.com,retail
+https://www.barnesandnoble.com,retail
+https://www.booksamillion.com,retail
+https://www.booktopia.com.au,retail
+https://www.bookpeople.com,retail
+https://www.powells.com,retail
+https://www.waterstones.com,retail
+https://www.foyles.co.uk,retail
+https://www.blackwells.co.uk,retail
+https://www.whsmith.co.uk,retail
+https://www.dymocks.com.au,retail
+https://www.kinokuniya.com,retail
+https://www.marumaru.com,retail
+https://www.hmv.com,retail
+https://www.fye.com,retail
+https://www.sanity.com.au,retail
+https://www.jbhifi.com.au,retail
+https://www.target.com.au,retail
+https://www.bigw.com.au,retail
+https://www.kmart.com.au,retail
+https://www.myer.com.au,retail
+https://www.davidjones.com,retail
+https://www.buzzfeed.com,media & news
+https://www.cnn.com,media & news
+https://www.ign.com,media & news
+https://www.marketwatch.com,media & news
+https://www.digitaltrends.com,media & news
+https://www.linkedin.com,media & news
+https://www.yahoo.com,media & news
+https://www.medium.com,media & news
+https://www.engadget.com,media & news
+https://www.rottentomatoes.com,media & news
+https://www.pinterest.com,media & news
+https://www.gamesradar.com,media & news
+https://www.pbs.org/newshour,media & news
+https://www.theonion.com,media & news
+https://www.newyorker.com,media & news
+https://www.time.com,media & news
+https://www.bleacherreport.com,media & news
+https://www.reddit.com,media & news
+https://www.fool.com,media & news
+https://cnnespanol.cnn.com,media & news
+https://www.realsimple.com,media & news
+https://www.seventeen.com,media & news
+https://www.androidcentral.com,media & news
+https://www.tvguide.com,media & news
+https://www.ajc.com,media & news
+https://www.kotaku.com,media & news
+https://www.complex.com,media & news
+https://www.bloomberg.com/politics,media & news
+https://www.axios.com,media & news
+https://www.appleinsider.com,media & news
+https://www.self.com,media & news
+https://www.foxbusiness.com,media & news
+https://www.yelp.com,media & news
+https://www.investopedia.com,media & news
+https://www.washingtonpost.com/worldviews,media & news
+https://www.sciencedaily.com,media & news
+https://www.thoughtcatalog.com,media & news
+https://www.mentalfloss.com,media & news
+https://www.seriouseats.com,media & news
+https://www.eater.com,media & news
+https://www.bobvila.com,media & news
+https://www.nytimes.com/section/climate,media & news
+https://www.realtor.com,media & news
+https://www.inc.com,media & news
+https://www.entrepreneur.com,media & news
+https://www.businessinsider.com,media & news
+https://www.techcrunch.com,media & news
+https://www.vox.com,media & news
+https://www.slate.com,media & news
+https://www.politico.com,media & news
+https://www.fivethirtyeight.com,media & news
+https://www.propublica.org,media & news
+https://www.motherjones.com,media & news
+https://www.nationalreview.com,media & news
+https://www.theatlantic.com,media & news
+https://www.theguardian.com/us,media & news
+https://www.latimes.com,media & news
+https://www.chicagotribune.com,media & news
+https://www.nypost.com,media & news
+https://www.usatoday.com,media & news
+https://www.wsj.com,media & news
+https://www.washingtonpost.com,media & news
+https://www.nytimes.com,media & news
+https://www.npr.org,media & news
+https://www.reuters.com,media & news
+https://www.apnews.com,media & news
+https://www.bbc.com/news,media & news
+https://www.abcnews.go.com,media & news
+https://www.cbsnews.com,media & news
+https://www.msnbc.com,media & news
+https://www.foxnews.com,media & news
+https://www.aljazeera.com,media & news
+https://www.bloomberg.com,media & news
+https://www.cnbc.com,media & news
+https://www.ft.com,media & news
+https://www.fortune.com,media & news
+https://www.hbr.org,media & news
+https://www.technologyreview.com,media & news
+https://www.newsweek.com,media & news
+https://www.scientificamerican.com,media & news
+https://www.smithsonianmag.com,media & news
+https://www.timeout.com,media & news
+https://www.usnews.com,media & news
+https://www.vanityfair.com,media & news
+https://www.variety.com,media & news
+https://www.vice.com,media & news
+https://www.vulture.com,media & news
+https://www.wired.com,media & news
+https://www.news.yahoo.com,media & news
+https://www.zdnet.com,media & news
+https://www.buzzfeednews.com,media & news
+https://www.cheddar.com,media & news
+https://www.courthousenews.com,media & news
+https://www.deadline.com,media & news
+https://www.democracynow.org,media & news
+https://www.futurism.com,media & news
+https://www.hollywoodreporter.com,media & news
+https://www.insider.com,media & news
