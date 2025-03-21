@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Logo-Clustering
-=======
+=======<br>
 The following project represents the solution to assignment "#1 Logos" for the Deep Tech Intern position at Veridion. Below, I will detail the steps and reasoning behind my approach to solving this task.
 
 The assignment involved classifying the logos of approximately 3500 websites. Given the open-ended requirements, I approached classification through several criteria:
@@ -57,15 +56,15 @@ The pHash approach successfully identified approximately 1050 duplicates; howeve
 #### III. Color Palette Classification (`cp_cls.py`):
 - Classified logos into predefined palette categories using HLS color space, creating rule-based intervals.
 - Divided logos into 8x8 pixel patches, averaging colors to accurately represent the overall palette.
-<br><img src="imgs/palettes/palettes_rules.png" width="500" height="400">
+<br><img src="imgs/palettes/palettes_rules.PNG" width="500" height="400">
 <img src="imgs/palettes/Lightness_Saturation_plot.png" width="500" height="400"><br>
 
 #### IV. Minimalist Classification (`min_cls.py`):
 - Applied Canny edge detection on grayscale images.
 - Calculated edge density, classifying logos with densities below a manually determined threshold (4%) as minimalist.<br>
-<img src="imgs/minimalist_or_not/original.png" width="256" height="256">
-<img src="imgs/minimalist_or_not/greyscale.png" width="256" height="256">
-<img src="imgs/minimalist_or_not/edge map.png" width="256" height="256">
+<img src="imgs/minimalist_or_not/original.PNG" width="256" height="256">
+<img src="imgs/minimalist_or_not/greyscale.PNG" width="256" height="256">
+<img src="imgs/minimalist_or_not/edge map.PNG" width="256" height="256">
 
 #### V. Industry Classification (ResNet50) (`resnet.py`):
 - Fine-tuned pre-trained ResNet50 for logo-based industry classification (10 industries).
