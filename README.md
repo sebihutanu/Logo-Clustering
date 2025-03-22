@@ -117,4 +117,4 @@ Overall, this project demonstrated proof-of-concept methods with clear avenues f
 ## To run the code, simply run the `Logos.py` file. ##
 #### There is also a `save.py` file that creates directories for saving the results of each classification method. To use it, all you have to do is changing the csv_file variable to the csv file you want to save the results of and run it. ####
 #### The models are already trained and saved. If you want to skip training and use the saved models, you can comment the training part in the `resnet.py` and `NB.py` files. ####
->>>>>>> 71861e6 (Logo Clustering)
+#### I recommend using the already pre-trained ResNet50 model, since the dataset is only a sample of the one I used for its training. ####
